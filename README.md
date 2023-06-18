@@ -1,4 +1,4 @@
-# Hi, 👋  I'm <a href="https://naixinzhai.github.io/" target="_blank">Zhai Naixin (Oliver)</a>
+# Hi, 👋  I'm <a href="https://naixinzhai.github.io/" target="_blank">Naixin-Zhai (Oliver)</a>
 
 <p align="center">
   <a href="https://github.com/NaixinZhai" class="rich-diff-level-one">
