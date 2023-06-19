@@ -1,15 +1,10 @@
 # Hi, 👋  I'm <a href="https://naixinzhai.github.io/" target="_blank">Naixin-Zhai (Oliver)</a>
 
-<p align="center">
-  <a href="https://github.com/NaixinZhai" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=NaixinZhai&title_color=333&text_color=777" alt="Charmve's Stats" >
-  </a>
-</p>
+
 
 <p align="center"> 
   <br>
-  <strong>Check out my work below!</strong>
-  <br><br>
+
   <a href="https://github.com/NaixinZhai">
     <img src="https://badges.strrl.dev/visits/NaixinZhai/NaixinZhai?style=flat-square&color=black&logo=github">
   </a>
