@@ -1,24 +1,23 @@
-# Hi, 👋  I'm <a href="https://naixinzhai.github.io/" target="_blank">Naixin-Zhai (Oliver)</a>
+# Hi, 👋  I'm <a href="https://OliverZhai1515.github.io/" target="_blank">Zhai.</a>
 
 
 
 <p align="center"> 
   <br>
-
-  <a href="https://github.com/NaixinZhai">
-    <img src="https://badges.strrl.dev/visits/NaixinZhai/NaixinZhai?style=flat-square&color=black&logo=github">
+  <a href="https://github.com/OliverZhai1515">
+    <img src="https://badges.strrl.dev/visits/OliverZhai1515/OliverZhai1515?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://github.com/NaixinZhai">
-    <img src="https://badges.strrl.dev/years/NaixinZhai?style=flat-square&color=black&logo=github">
+  <a href="https://github.com/OliverZhai1515">
+    <img src="https://badges.strrl.dev/years/OliverZhai1515?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://github.com/NaixinZhai?tab=repositories">
-    <img src="https://badges.strrl.dev/repos/NaixinZhai?style=flat-square&color=black&logo=github">
+  <a href="https://github.com/OliverZhai1515?tab=repositories">
+    <img src="https://badges.strrl.dev/repos/OliverZhai1515?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://gist.github.com/NaixinZhai">
-    <img src="https://badges.strrl.dev/gists/NaixinZhai?style=flat-square&color=black&logo=github">
+  <a href="https://gist.github.com/OliverZhai1515">
+    <img src="https://badges.strrl.dev/gists/OliverZhai1515?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://github.com/NaixinZhai">
-    <img src="https://badges.strrl.dev/commits/monthly/NaixinZhai?style=flat-square&color=black&logo=github">
+  <a href="https://github.com/OliverZhai1515">
+    <img src="https://badges.strrl.dev/commits/monthly/OliverZhai1515?style=flat-square&color=black&logo=github">
   </a>
 </p>
 
